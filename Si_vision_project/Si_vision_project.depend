@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1664493380 source:d:\si-vision_course\si_vision_project\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
